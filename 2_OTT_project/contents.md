@@ -1,5 +1,5 @@
 ## 📺 OTT_Project
-
+- 8/12 ~ 16
 - OTT 플랫폼의 서비스를 MVC patter과  JDBC 를 사용하여 구현한 프로젝트
 
 
