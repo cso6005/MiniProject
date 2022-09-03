@@ -1,4 +1,4 @@
-## 📺 Probono_Project
+## 🐤 Probono_Project
 - 8/22 ~ 23
 - 프로보노의 서비스를 MVC patter과  JPA 를 사용하여 구현한 프로젝트
 - 복습을 목적으로, 서비스 로직 보단 JPA 사용 및 JPQL 작성에 중점을 둔 프로젝트
